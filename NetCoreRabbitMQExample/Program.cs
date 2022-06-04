@@ -62,10 +62,6 @@ namespace NetCoreRabbitMQExample
             }
             Console.ReadLine();
         }
-
-
-
-
     }
     public class Customer
     {
